@@ -1,0 +1,22 @@
+{
+  "name": "log4js-rediskey-appender",
+  "version": "1.0.0",
+  "description": "Redis Key Appender for log4js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drhadia/log4js-rediskey-appender.git"
+  },
+  "author": "Hitesh Hadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drhadia/log4js-rediskey-appender/issues"
+  },
+  "homepage": "https://github.com/drhadia/log4js-rediskey-appender#readme",
+  "dependencies": {
+    "redis": "^4.6.13"
+  }
+}

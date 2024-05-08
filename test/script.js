@@ -1,0 +1,1 @@
+const helloNpm = require('log4js-rediskey-appender')

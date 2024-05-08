@@ -1,0 +1,8 @@
+.vscode
+.deployment
+.idea
+node_modules
+package-lock.json
+logs
+cache
+.env
