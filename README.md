@@ -1,3 +1,11 @@
+
+# Redis Key Appender for log4js-node
+
+Plugin for [log4js](https://github.com/log4js-node/log4js-node/)
+
+Store log events in a [Redis](https://redis.io/) database with key and value.
+
+This appender is using [RPUSH](https://redis.io/docs/latest/commands/rpush/) of redis command to store key value pair.
 ## Installation
 
 Install with npm
