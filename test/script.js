@@ -1,1 +1,1 @@
-const helloNpm = require('log4js-rediskey-appender')
+const test = require('../index')
